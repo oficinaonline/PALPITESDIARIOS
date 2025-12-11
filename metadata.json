@@ -1,0 +1,5 @@
+{
+  "name": "BetMaster AI Analyst",
+  "description": "A professional football statistics analyzer and predictor powered by Gemini 2.5 Flash. Generates daily tips based on real API-Football data, analyzing form, H2H, and odds.",
+  "requestFramePermissions": []
+}
